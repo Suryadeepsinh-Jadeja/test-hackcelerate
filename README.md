@@ -1,2 +1,2 @@
-if you just need urls then use image-video-urls.py
-but if you want to download them then go for image-video-download.py
+If you just need urls then use image-video-urls.py. 
+But if you want to download them then go for image-video-download.py
